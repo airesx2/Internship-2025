@@ -1,6 +1,6 @@
-**Nvidia cudaq**
-**CNN ML models**
-**Python fundamentals**
+**Nvidia cudaq**,
+**CNN ML models**, 
+**Python fundamentals**,
 
 HackMD learning notebooks->
 - https://hackmd.io/@LQOqV4ALQtK05z8kaQs9XQ/BJxNtV-Ngl
