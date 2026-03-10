@@ -1,6 +1,8 @@
-Using Nvidia cudaq
+**Nvidia cudaq**
+**CNN ML models**
+**Python fundamentals**
 
-ML notebook + documentation->
+HackMD learning notebooks->
 - https://hackmd.io/@LQOqV4ALQtK05z8kaQs9XQ/BJxNtV-Ngl
 - https://hackmd.io/@LQOqV4ALQtK05z8kaQs9XQ/H1Dc5WgEel
 - https://hackmd.io/@LQOqV4ALQtK05z8kaQs9XQ/ry_meeaXee
