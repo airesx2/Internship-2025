@@ -1,4 +1,5 @@
 EinsNeXT software internship progress summer 2025
+---------------------------------------------------
 **Nvidia cudaq**,
 **CNN ML models**, 
 **Python fundamentals**
